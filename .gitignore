@@ -1,0 +1,5 @@
+# ignore goland project files
+.idea/
+
+# ignore .exe runable files
+*.exe
