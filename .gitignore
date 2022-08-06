@@ -3,3 +3,6 @@
 
 # ignore .exe runable files
 *.exe
+
+# ignore .gif execute the source file generate result file
+*.gif
